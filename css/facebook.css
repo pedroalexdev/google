@@ -147,6 +147,7 @@ footer nav .links{
     list-style: none;
     justify-content: left;
     align-items: center;
+    line-height: 24px;
     margin: 10px auto;
     padding-left: 0;
 }
